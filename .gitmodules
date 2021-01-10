@@ -1,0 +1,6 @@
+[submodule "src/Encoder"]
+	path = src/Encoder
+	url = https://github.com/PaulStoffregen/Encoder
+[submodule "src/USBKeyboard"]
+	path = src/USBKeyboard
+	url = https://github.com/valinet/USBKeyboard
